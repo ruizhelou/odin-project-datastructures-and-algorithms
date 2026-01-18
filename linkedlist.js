@@ -183,5 +183,3 @@ class LinkedList {
         return result
     }
 }
-
-const list = new LinkedList();
